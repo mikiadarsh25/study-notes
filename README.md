@@ -10,7 +10,7 @@
 
 ## Key Topics
 
-     - [Runtime Environment]()
-     - [Types of Language]()
-     - [Execution Methods]()
-     - [J-I-T Compiler]()
+-   [Runtime Environment](https://github.com/mikiadarsh25/study-notes/blob/main/Basics/runtime_Environment.md)
+-   [Types of Language](https://github.com/mikiadarsh25/study-notes/blob/main/Basics/languageType.md)
+-   [Execution Methods](https://github.com/mikiadarsh25/study-notes/blob/main/Basics/executionMethods.md)
+-   [J-I-T Compiler](https://github.com/mikiadarsh25/study-notes/blob/main/Basics/jitCompiler.md)
